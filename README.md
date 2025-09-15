@@ -11,7 +11,7 @@ Explorar, evaluar y promover el uso de herramientas de inteligencia artificial (
 
 ## Contenidos del repositorio
 
-- `Guia_Buenas_Practicas_IA_Diseño_Instruccional.pdf`: Documento con recomendaciones detalladas para el uso de herramientas de IA en el diseño instruccional.
+- `Guía de Buenas Prácticas para el Uso de Herramientas de Inteligencia Artificial en el Diseño Instruccional.pdf`: Documento con recomendaciones detalladas para el uso de herramientas de IA en el diseño instruccional.
 - Recursos complementarios y ejemplos de aplicación (en desarrollo).
 
 ## Licencia
